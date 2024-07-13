@@ -1,3 +1,10 @@
+
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
+
 from info import BIN_CHANNEL, URL
 from utils import temp
 from web.utils.custom_dl import TGCustomYield
@@ -23,3 +30,8 @@ async def media_watch(message_id):
     else:
         html = '<h1>This is not streamable file</h1>'
     return html
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
