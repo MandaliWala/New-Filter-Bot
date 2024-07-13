@@ -1,3 +1,10 @@
+
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
+
 import math
 from typing import Union
 from pyrogram.types import Message
@@ -83,6 +90,12 @@ class TGCustomYield:
             client.media_sessions[data.dc_id] = media_session
 
         return media_session
+        #• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
+    
 
     @staticmethod
     async def get_location(file_id: FileId):
@@ -210,3 +223,8 @@ class TGCustomYield:
                 )
 
             return m_file
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
