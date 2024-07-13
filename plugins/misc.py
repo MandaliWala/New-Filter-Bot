@@ -1,3 +1,10 @@
+
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
+
 import os
 from info import ADMINS
 from speedtest import Speedtest, ConfigRetrievalError
@@ -66,3 +73,9 @@ async def speedtest(client, message):
 '''
     await message.reply_photo(photo=photo, caption=text)
     await msg.delete()
+    
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
