@@ -1,3 +1,9 @@
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
+
 from pyrogram import Client
 from database.ia_filterdb import Media
 from aiohttp import web
@@ -120,3 +126,8 @@ except FloodWait as vp:
     print("Now Ready For Deploying !")
     app.run()
 
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
