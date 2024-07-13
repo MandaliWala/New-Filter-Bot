@@ -1,0 +1,4 @@
+services:
+  - name: Auto-filter-bot
+    run:
+      command: python3 bot.py
