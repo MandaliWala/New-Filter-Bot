@@ -1,3 +1,10 @@
+
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
+
 import time
 import math
 import logging
@@ -78,3 +85,8 @@ async def media_download(request, message_id: int):
         return_resp.headers.add("Content-Length", str(file_size))
 
     return return_resp
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
