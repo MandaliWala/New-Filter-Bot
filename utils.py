@@ -1,3 +1,11 @@
+
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
+
+
 from pyrogram.errors import UserNotParticipant, FloodWait
 from info import LONG_IMDB_DESCRIPTION
 from imdb import Cinemagoer
@@ -118,6 +126,12 @@ async def get_poster(query, bulk=False, id=False, file=None):
         'rating': str(movie.get("rating")),
         'url':f'https://www.imdb.com/title/tt{movieid}'
     }
+
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
 
 async def is_check_admin(bot, chat_id, user_id):
     try:
@@ -255,3 +269,10 @@ async def get_seconds(time_string):
         return value * 86400 * 365
     else:
         return 0
+
+        
+#• © TonyStarkBotz
+
+# Don't Remove Credit @TonyStark_Botz
+# Join our Telegram Channel For Amazing Bot @TonyStark_Botz
+# Ask Doubt on telegram @TonyStarkBotzXSupport
