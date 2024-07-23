@@ -131,9 +131,9 @@ I can't find the <b>{}</b> in my database! 🥲
     
     SOURCE_TXT = """<b>ʙᴏᴛ ɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ -
 
-- sᴏʀʀʏ ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
+- ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴍᴀᴋᴇ ʏᴏᴜʀ ᴏᴡɴ ʙᴏᴛ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ʜᴇʀᴇ:- @TonyContactBot
+- https://t.me/+ymaC4fIVKvE4YzBl
 
 - ᴅᴇᴠʟᴏᴘᴇʀ - @TonyStark_Botz"""
 
